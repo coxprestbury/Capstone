@@ -1,2 +1,2 @@
 # Capstone
-This will store my code for the the Coursera Applied Data Science Capstone class
+This will store my code for the the Coursera Applied Data Science Capstone class.
